@@ -55,7 +55,7 @@ $(document).ready(function () {
         clearTimeout(timeoutId);
     });
 
-
+    //organize all of this code!
     $('body').on('click', '.btn', function(e){
         if($(this).data('type') == 'digit'){
             var digit = $(this).data('value');
