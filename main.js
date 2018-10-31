@@ -165,5 +165,6 @@ $(document).ready(function () {
         append = false;
         displayInput.val(solution);
     }
+    //random comment
 
 }); // end doc ready
