@@ -167,4 +167,6 @@ $(document).ready(function () {
     }
     //random comment
 
+    //i'm adding another comment for hacktoberfest
+
 }); // end doc ready
