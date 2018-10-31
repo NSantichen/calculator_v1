@@ -169,4 +169,6 @@ $(document).ready(function () {
 
     //i'm adding another comment for hacktoberfest
 
+    // hacktoberfest comment # 4
+
 }); // end doc ready
